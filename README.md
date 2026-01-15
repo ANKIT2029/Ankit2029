@@ -83,10 +83,10 @@ I believe in **learning by building**, refining through feedback, and shipping w
 ## 📜 Certifications
 
 - 🛡️ [Foundations of Network Security](https://drive.google.com/file/d/1VgC1Q0d_zRi_JakaIlJLVI_Wyz1gKNjn/view?usp=sharing)
-- ☁️ AWS Training & Certification  
-- 📊 Tata Data Visualization  
-- 💻 Eduxposed Web Development Internship  
-
+- ☁️ [AWS Training & Certification](https://drive.google.com/file/d/1T5kCF8y2dzdxUpNUnzMYQhUWokdJfTxS/view?usp=sharing)  
+- 📊 [Tata Data Visualization](https://drive.google.com/file/d/1OW_UxLzaBhiswCY0sKRmGfB2LCNyN0Ow/view?usp=sharing)
+- 💻 [Eduxposed Web Development Internship](https://drive.google.com/file/d/1qJPrwsLv30BCTbtYyAh0gwzPcvCtuBNB/view?usp=sharing)
+- 👨‍💻 [Open AI-Buildathon Nxtwave](https://drive.google.com/file/d/1jNjKuLp0nB34ZqEYsjrZ3Um3BCY0eUBo/view?usp=sharing)
 ---
 
 ## 🌱 Leadership & Responsibility
