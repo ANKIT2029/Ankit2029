@@ -55,7 +55,7 @@ I believe in **learning by building**, refining through feedback, and shipping w
 
 | 🔗 Project | 📝 Description | 🛠 Tech |
 |-----------|----------------|--------|
-| **Crypto Price Tracker Dashboard** | Real-time crypto dashboard with CoinGecko API, search, auto-refresh, dark/light mode, and animated UI. | HTML, CSS, JavaScript, API |
+| [**Crypto Price Tracker Dashboard**](https://github.com/ANKIT2029/Crypto-Dashboard-Tracker-API-Based-) | Real-time crypto dashboard with CoinGecko API, search, auto-refresh, dark/light mode, and animated UI. | HTML, CSS, JavaScript, API |
 | **Clinic Portal** | Appointment booking, patient management, scheduling & chat system for clinics. | Python, Web Tech, Docker |
 | **Frontend UI Projects** | Responsive layouts, animations, accessibility-focused components. | React, Tailwind, CSS |
 
